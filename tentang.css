@@ -40,6 +40,7 @@ nav ul li a {
   color: black;
   text-decoration: none;
   padding: 5px 5px;
+  cursor: pointer;
   transition: all;
   transition-duration: 300ms;
   border-bottom: 1px solid #7B6242(0, 0, 0, 0);
